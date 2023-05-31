@@ -1,0 +1,3 @@
+Jony 1 100
+Sakib 2 90
+Tamim 3 80
