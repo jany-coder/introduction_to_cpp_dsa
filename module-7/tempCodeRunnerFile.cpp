@@ -1,0 +1,1 @@
+sort(frq, frq + 26, cmp);

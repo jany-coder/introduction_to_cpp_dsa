@@ -1,9 +1,9 @@
-Jony
-1
-100
-Sakib
-2
-90
-Tamim
+Jany
 3
+100
+Suzan 
+5
+90
+Nizam
+7
 80
