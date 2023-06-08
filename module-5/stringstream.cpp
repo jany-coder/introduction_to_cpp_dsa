@@ -7,8 +7,11 @@ int main()
     getline(cin, s);
     stringstream ss(s);
     string w;
-    while(ss >> w) {
-        cout<<w<<endl;
+    while (ss >> w)
+    {
+        cout << w << endl;
     }
+
+    cout << w.length();
     return 0;
 }
